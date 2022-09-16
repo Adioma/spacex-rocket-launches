@@ -8,7 +8,7 @@ The latest static version of the infographic:
 
 ![SpaceX rocket launches infographic](http://i.imgur.com/kDREZti.png "View SpaceX rocket launches")
 
-The graphic was originally created for [How Elon Musk Started](http://blog.adioma.com.com/how-elon-musk-started/) article and maintained by Adioma team by the request of Reddit community.
+The graphic was originally created for [How Elon Musk Started](http://blog.adioma.com.com/how-elon-musk-started/) article and [maintained]https://twitter.com/annavitals/status/954245689135058944) by Adioma team by the request of Reddit community.
 
 Earlier versions, that appeared on Reddit:
  - [April 30, 2017](https://www.reddit.com/r/spacex/comments/68iw7q/all_spacex_launches_and_booster_landing_attempts/)
